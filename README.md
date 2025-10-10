@@ -1,13 +1,11 @@
-<h1>Hi,Get to know me!</h1>
+<h1>Hi,Get to know me👋!</h1>
 
 <pre>
-import Moses from 'FargoSeabi';
-
-class Bio extends Kamogelo {
-  name     = 'Moses Seabi';
-  title    = 'Student';
-  location = 'Polokwane, ZA';
-}
+👋 Hi, I’m @Moses
+👀 I’m interested in Full Stack Development to help the daily lives of people easier.
+🌱 I’m currently learning Java,Python and Django.
+💞️ I’m looking to collaborate on entry level projects to aid the development of my portfolio.
+📫 How to reach me : e-mail seabimoses7@gmail.com or text me on github
 </pre>
 
 <h2>Tech Stack</h2>
