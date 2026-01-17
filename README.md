@@ -3,7 +3,7 @@
 <pre>
 👋 Hi, I’m @Moses
 👀 I’m interested in Full Stack Development to help the daily lives of people easier.
-🌱 I’m currently learning Java,Python and Django.
+🌱 I’m currently learning Java, Javascript and Django.
 💞️ I’m looking to collaborate on entry level projects to aid the development of my portfolio.
 📫 How to reach me : e-mail seabimoses7@gmail.com or text me on whatsapp [+27 76 1056 735]
 </pre>
