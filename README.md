@@ -14,6 +14,9 @@
 
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fargoseabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FargoSeabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Contribution Heatmap
 ![contrib](https://ghchart.rshah.org/FargoSeabi)
