@@ -1,7 +1,7 @@
 <h1>Hi,Get to know me👋!</h1>
 
 <pre>
-👋 Hi, I’m @Moses
+👋 Hi, I’m Moses
 👀 I’m interested in Full Stack Development to help the daily lives of people easier.
 🌱 I’m currently learning Java, Javascript and Django.
 💞️ I’m looking to collaborate on entry level projects to aid the development of my portfolio.
