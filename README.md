@@ -16,10 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Fargoseabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - **Contribution Heatmap**  
-  ![contrib](https://ghchart.rshah.org/Remo17)
-
-- **Celebration Loop**  
-  ![celebrate](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
-
+  ![contrib](https://ghchart.rshah.org/FargoSeabi)
 
 Thanks for visiting my profile!
