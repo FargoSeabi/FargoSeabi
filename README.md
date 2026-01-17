@@ -14,7 +14,7 @@
 
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FargoSeabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=FargoSeabi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Contribution Heatmap
 ![contrib](https://ghchart.rshah.org/FargoSeabi)
 
