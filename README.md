@@ -15,4 +15,9 @@
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FargoSeabi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Problem+Solver;Building+Scalable+Solutions;Mentoring+%26+Knowledge+Sharing;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+  
+---
+
 Thanks for visiting my profile!
