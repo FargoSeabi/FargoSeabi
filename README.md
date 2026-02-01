@@ -20,8 +20,4 @@
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fargoseabi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
   
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
