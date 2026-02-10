@@ -1,7 +1,6 @@
-<h1>Hi,Get to know me👋!</h1>
+<h1>👋 Hi, I’m Moses Seabi</h1>
 
 <pre>
-👋 Hi, I’m Moses Seabi
 👀 I’m a Full Stack Developer.
 🌱 I’m currently learning Java, Javascript and Django.
 💞️ I’m looking to collaborate on entry level projects to aid the development of my portfolio.
